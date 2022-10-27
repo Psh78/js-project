@@ -247,6 +247,11 @@ footer{
     text-align: center;
 }
 
+.footerItems li, .footerItemsh4
+{
+    cursor: pointer;
+}
+
 .socialMedia
 {
     width: 30%;
@@ -254,9 +259,11 @@ footer{
     gap: 0.5rem;
     justify-content: center;
 }
+
 .socialMedia img
 {
     width: 1.2rem;
+    cursor: pointer;
 }
 
 .copy
